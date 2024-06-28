@@ -1,0 +1,9 @@
+.bloque{
+    width: 40%;
+    padding: 150px;
+    background-color: blue;
+    border: 10px solid red;
+    text-align: center;
+    font-size: 50px;
+    margin: 0 auto 20px;
+}
